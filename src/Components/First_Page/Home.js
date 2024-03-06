@@ -228,16 +228,17 @@ function Home() {
               </p>
               <ul>
                 <li>
-                  <i className="bi bi-check"></i> Provide immunizations and
-                  routine medical examinations.
+                  <i className="bi bi-check"></i> Arranging social events and
+                  community activities.
                 </li>
                 <li>
-                  <i className="bi bi-check"></i> Granting access to experts and
-                  professionals in healthcare.
+                  <i className="bi bi-check"></i> Partnering with businesses and
+                  organizations in the community.
                 </li>
                 <li>
-                  <i className="bi bi-check"></i> Putting in place wellness
-                  initiatives that emphasize mental and nutritional well-being.
+                  <i className="bi bi-check"></i> Enabling community members to
+                  act as change agents by developing their leadership and
+                  advocating for them.
                 </li>
               </ul>
             </div>
