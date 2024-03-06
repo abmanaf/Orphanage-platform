@@ -105,26 +105,24 @@ function Home() {
               />
             </div>
             <div className="col-md-7">
-              <h3>
-                Voluptatem dignissimos provident quasi corporis voluptates sit
-                assumenda.
-              </h3>
+              <h3>Providing Necessary Materials</h3>
               <p className="fst-italic">
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-                eiusmod tempor incididunt ut labore et dolore magna aliqua.
+                We see to it that people in need have easy access to necessities
+                like food, clothing, and shelter. Our goal is to provide each
+                person in our care with a secure and supportive environment.
               </p>
               <ul>
                 <li>
-                  <i className="bi bi-check"></i> Ullamco laboris nisi ut
-                  aliquip ex ea commodo consequat.
+                  <i className="bi bi-check"></i> Provide wholesome food and
+                  uncontaminated water.
                 </li>
                 <li>
-                  <i className="bi bi-check"></i> Duis aute irure dolor in
-                  reprehenderit in voluptate velit.
+                  <i className="bi bi-check"></i> Provide cozy apparel and
+                  bedding.
                 </li>
                 <li>
-                  <i className="bi bi-check"></i> Ullam est qui quos consequatur
-                  eos accusamus.
+                  <i className="bi bi-check"></i> Providing amenities for safe
+                  and secure shelter.
                 </li>
               </ul>
             </div>
@@ -143,17 +141,28 @@ function Home() {
               />
             </div>
             <div className="col-md-7 order-2 order-md-1">
-              <h3>Corporis temporibus maiores provident</h3>
+              <h3>Education and Skill Development</h3>
               <p className="fst-italic">
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-                eiusmod tempor incididunt ut labore et dolore magna aliqua.
+                The secret to opening the door to a better future is education.
+                In order to provide children and teenagers with the knowledge
+                and skills they need to succeed in life, we place a high
+                priority on education and skill development programs.
               </p>
               <p>
-                Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis
-                aute irure dolor in reprehenderit in voluptate velit esse cillum
-                dolore eu fugiat nulla pariatur. Excepteur sint occaecat
-                cupidatat non proident, sunt in culpa qui officia deserunt
-                mollit anim id est laborum
+                <ul>
+                  <li>
+                    <i className="bi bi-check"></i> Delivering individualized
+                    formal education programs.
+                  </li>
+                  <li>
+                    <i className="bi bi-check"></i> Offering possibilities for
+                    apprenticeships and vocational training.
+                  </li>
+                  <li>
+                    <i className="bi bi-check"></i> Holding lectures and
+                    workshops on a range of life skills.
+                  </li>
+                </ul>
               </p>
             </div>
           </div>
@@ -171,27 +180,26 @@ function Home() {
               />
             </div>
             <div className="col-md-7">
-              <h3>
-                Sunt consequatur ad ut est nulla consectetur reiciendis animi
-                voluptas
-              </h3>
+              <h3>Initiatives for Wellness and Healthcare</h3>
               <p>
-                Cupiditate placeat cupiditate placeat est ipsam culpa. Delectus
-                quia minima quod. Sunt saepe odit aut quia voluptatem hic
-                voluptas dolor doloremque.
+                By giving our beneficiaries access to high-quality healthcare
+                services and encouraging wellness programs, we put their health
+                and wellbeing first. Making ensuring that each person gets the
+                attention and assistance they require to flourish is our main
+                objective.
               </p>
               <ul>
                 <li>
-                  <i className="bi bi-check"></i> Ullamco laboris nisi ut
-                  aliquip ex ea commodo consequat.
+                  <i className="bi bi-check"></i> Provide immunizations and
+                  routine medical examinations.
                 </li>
                 <li>
-                  <i className="bi bi-check"></i> Duis aute irure dolor in
-                  reprehenderit in voluptate velit.
+                  <i className="bi bi-check"></i> Granting access to experts and
+                  professionals in healthcare.
                 </li>
                 <li>
-                  <i className="bi bi-check"></i> Facilis ut et voluptatem
-                  aperiam. Autem soluta ad fugiat.
+                  <i className="bi bi-check"></i> Putting in place wellness
+                  initiatives that emphasize mental and nutritional well-being.
                 </li>
               </ul>
             </div>
@@ -210,21 +218,28 @@ function Home() {
               />
             </div>
             <div className="col-md-7 order-2 order-md-1">
-              <h3>
-                Quas et necessitatibus eaque impedit ipsum animi consequatur
-                incidunt in
-              </h3>
+              <h3>Outreach and Community Involvement</h3>
               <p className="fst-italic">
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-                eiusmod tempor incididunt ut labore et dolore magna aliqua.
+                We regularly connect with local communities because we believe
+                in their capacity to create a sense of support and belonging.
+                Together, we strive to bring about positive change and support
+                those in need through outreach initiatives and community
+                collaborations.
               </p>
-              <p>
-                Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis
-                aute irure dolor in reprehenderit in voluptate velit esse cillum
-                dolore eu fugiat nulla pariatur. Excepteur sint occaecat
-                cupidatat non proident, sunt in culpa qui officia deserunt
-                mollit anim id est laborum
-              </p>
+              <ul>
+                <li>
+                  <i className="bi bi-check"></i> Provide immunizations and
+                  routine medical examinations.
+                </li>
+                <li>
+                  <i className="bi bi-check"></i> Granting access to experts and
+                  professionals in healthcare.
+                </li>
+                <li>
+                  <i className="bi bi-check"></i> Putting in place wellness
+                  initiatives that emphasize mental and nutritional well-being.
+                </li>
+              </ul>
             </div>
           </div>
         </div>
