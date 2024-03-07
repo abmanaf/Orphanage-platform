@@ -246,12 +246,20 @@ function Home() {
           </div>
         </div>
       </section>
+      {/*
       <a
         href="#"
-        className="scroll-top d-flex align-items-center justify-content-center"
+        className="scroll-top d-flex align-items-center justify-content-end"
+        style={{
+          width: "200px",
+          height: "200px",
+          borderRadius: "50%",
+          backgroundColor: "green",
+        }}
       >
         <i className="bi bi-arrow-up-short"></i>
       </a>
+       */}
     </div>
   );
 }
