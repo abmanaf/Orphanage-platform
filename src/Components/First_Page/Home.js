@@ -38,7 +38,6 @@ function Home() {
           </div>
         </div>
       </section>
-      <hr />
       <section id="services" className="services sections-bg">
         <div className="container" data-aos="fade-up">
           <div className="section-header" style={{ textAlign: "center" }}>
