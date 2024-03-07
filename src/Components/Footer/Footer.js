@@ -23,7 +23,7 @@ function Footer() {
         </div>
       </div> */}
 
-      <footer id="footer" className="footer">
+      <footer id="footer" className="footer" style={{ marginTop: "10em" }}>
         <div className="container">
           <div className="row gy-4">
             <div className="col-lg-5 col-md-12 ">
