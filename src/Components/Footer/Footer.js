@@ -5,16 +5,6 @@ import { Link, useNavigate } from "react-router-dom";
 function Footer() {
   const nagivate = useNavigate();
 
-  const handleNavigateAboutUs = () => {
-    nagivate("/About");
-  };
-  const handleNavigateTerms = () => {
-    nagivate("/Terms");
-  };
-  const handleNavigatePolicy = () => {
-    nagivate("/Policy");
-  };
-
   return (
     <div>
       <div className="space-before-footer"></div>
