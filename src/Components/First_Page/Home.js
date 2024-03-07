@@ -3,7 +3,7 @@ import Circle from "./circle.png";
 
 function Home() {
   return (
-    <div style={{ marginTop: "5em" }}>
+    <div style={{}}>
       <section id="hero" className="hero d-flex align-items-center">
         <div className="container">
           <div className="row gy-4 d-flex justify-content-between">
@@ -113,16 +113,16 @@ function Home() {
               </p>
               <ul>
                 <li>
-                  <i className="bi bi-check"></i> Provide wholesome food and
-                  uncontaminated water.
+                  {/*<i className="bi bi-check"></i>*/} Provide wholesome food
+                  and uncontaminated water.
                 </li>
                 <li>
-                  <i className="bi bi-check"></i> Provide cozy apparel and
+                  {/*<i className="bi bi-check"></i>*/} Provide cozy apparel and
                   bedding.
                 </li>
                 <li>
-                  <i className="bi bi-check"></i> Providing amenities for safe
-                  and secure shelter.
+                  {/*<i className="bi bi-check"></i>*/} Providing amenities for
+                  safe and secure shelter.
                 </li>
               </ul>
             </div>
@@ -151,15 +151,15 @@ function Home() {
               <p>
                 <ul>
                   <li>
-                    <i className="bi bi-check"></i> Delivering individualized
-                    formal education programs.
+                    {/*<i className="bi bi-check"></i>*/} Delivering
+                    individualized formal education programs.
                   </li>
                   <li>
-                    <i className="bi bi-check"></i> Offering possibilities for
-                    apprenticeships and vocational training.
+                    {/*<i className="bi bi-check"></i>*/} Offering possibilities
+                    for apprenticeships and vocational training.
                   </li>
                   <li>
-                    <i className="bi bi-check"></i> Holding lectures and
+                    {/*<i className="bi bi-check"></i>*/} Holding lectures and
                     workshops on a range of life skills.
                   </li>
                 </ul>
@@ -190,16 +190,17 @@ function Home() {
               </p>
               <ul>
                 <li>
-                  <i className="bi bi-check"></i> Provide immunizations and
-                  routine medical examinations.
+                  {/*<i className="bi bi-check"></i>*/} Provide immunizations
+                  and routine medical examinations.
                 </li>
                 <li>
-                  <i className="bi bi-check"></i> Granting access to experts and
-                  professionals in healthcare.
+                  {/*<i className="bi bi-check"></i>*/} Granting access to
+                  experts and professionals in healthcare.
                 </li>
                 <li>
-                  <i className="bi bi-check"></i> Putting in place wellness
-                  initiatives that emphasize mental and nutritional well-being.
+                  {/*<i className="bi bi-check"></i>*/} Putting in place
+                  wellness initiatives that emphasize mental and nutritional
+                  well-being.
                 </li>
               </ul>
             </div>
@@ -228,23 +229,29 @@ function Home() {
               </p>
               <ul>
                 <li>
-                  <i className="bi bi-check"></i> Arranging social events and
-                  community activities.
+                  {/*{<i className="bi bi-check"></i>}*/} Arranging social
+                  events and community activities.
                 </li>
                 <li>
-                  <i className="bi bi-check"></i> Partnering with businesses and
-                  organizations in the community.
+                  {/*<i className="bi bi-check"></i>*/} Partnering with
+                  businesses and organizations in the community.
                 </li>
                 <li>
-                  <i className="bi bi-check"></i> Enabling community members to
-                  act as change agents by developing their leadership and
-                  advocating for them.
+                  {/*<i className="bi bi-check"></i> */}Enabling community
+                  members to act as change agents by developing their leadership
+                  and advocating for them.
                 </li>
               </ul>
             </div>
           </div>
         </div>
       </section>
+      <a
+        href="#"
+        className="scroll-top d-flex align-items-center justify-content-center"
+      >
+        <i className="bi bi-arrow-up-short"></i>
+      </a>
     </div>
   );
 }
