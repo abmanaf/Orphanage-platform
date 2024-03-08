@@ -31,6 +31,16 @@ function Gallery() {
           </div>
         </div>
       </div>
+      <h3
+        className="content order-last order-lg-first"
+        style={{
+          textAlign: "center",
+          marginBottom: "2em",
+          color: "#001F8D",
+        }}
+      >
+        <strong>Our Mission</strong>
+      </h3>
 
       <section
         id="services"
