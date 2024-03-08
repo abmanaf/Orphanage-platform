@@ -2,8 +2,36 @@ import React from "react";
 
 function Gallery() {
   return (
-    <div style={{ marginTop: "10em" }}>
-      {" "}
+    <div style={{ marginTop: "4em" }}>
+      <div className="breadcrumbs">
+        <div
+          className="page-header d-flex align-items-center"
+          style={{
+            backgroundImage:
+              "url('https://littlebridgefoundation.org/wp-content/uploads/2022/11/inner-banner.jpg ')",
+            height: "100vh",
+            color: "white",
+            backgroundRepeat: "no-repeat",
+            backgroundPosition: "cover",
+          }}
+        >
+          <div className="container position-relative">
+            <div className="row d-flex justify-content-center">
+              <div className="col-lg-6 text-center">
+                <h2>Gallery</h2>
+                <p>
+                  Welcome to our Gallery page! View our photo gallery to
+                  discover happy times, nostalgic moments, and the full lives of
+                  the kids under our care. See how your assistance is making a
+                  difference and learn how resilient and hope are beautiful
+                  things.
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
       <section
         id="services"
         className="services sections-bg"
