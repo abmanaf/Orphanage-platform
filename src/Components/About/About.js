@@ -20,9 +20,9 @@ function About() {
             <div className="container position-relative">
               <div className="row d-flex justify-content-center">
                 <div className="col-lg-6 text-center">
-                  <h2>About</h2>
+                  <h2>About Us</h2>
                   <p>
-                    Welcome to our orphanage platform!We are committed to giving
+                    Welcome to our About platform!We are committed to giving
                     orphaned children a caring and encouraging environment.
                   </p>
                 </div>
