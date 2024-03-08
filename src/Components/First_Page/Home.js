@@ -38,7 +38,11 @@ function Home() {
           </div>
         </div>
       </section>
-      <section id="services" className="services sections-bg">
+      <section
+        id="services"
+        className="services sections-bg"
+        style={{ marginTop: "4em" }}
+      >
         <div className="container" data-aos="fade-up">
           <div className="section-header" style={{ textAlign: "center" }}>
             <h2> Our Supportive Services</h2>
