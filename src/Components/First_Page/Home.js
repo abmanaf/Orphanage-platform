@@ -15,7 +15,7 @@ function Home() {
                 Providing Hope and Care for Every Child
               </h1>
               <p
-                style={{ fontSize: "20px" }}
+                style={{ fontSize: "18px" }}
                 data-aos="fade-up"
                 data-aos-delay="100"
               >
