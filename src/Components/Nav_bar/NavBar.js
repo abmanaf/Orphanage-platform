@@ -27,6 +27,7 @@ function NavBar() {
             </Link>
           </div>
           <div className={`side-bar ${isSideBarOpen ? "open" : "closed"}`}>
+            {/* 
             <div
               className="close-icon"
               onClick={closeSideBar}
@@ -36,6 +37,7 @@ function NavBar() {
             </div>
             <br />
             <br />
+            */}
             <Link
               className="side-bar-context"
               to="/About"
@@ -144,15 +146,25 @@ function NavBar() {
                 </li>
               </ul>
             </div>
-            <div
-              className="menu-icon"
-              style={{ fontSize: "2em", marginTop: "0" }}
-              onClick={openSideBar}
-            >
-              <Link to="#" style={{ textDecoration: "none" }}>
-                <i className="fa fa-bars" aria-hidden="true"></i>
-              </Link>
-            </div>
+            {isSideBarOpen ? (
+              <div
+                className="menu-icon"
+                onClick={closeSideBar}
+                style={{ fontSize: "2em", marginTop: "0" }}
+              >
+                <i className="fa fa-times" aria-hidden="true"></i>
+              </div>
+            ) : (
+              <div
+                className="menu-icon"
+                style={{ fontSize: "2em", marginTop: "0" }}
+                onClick={openSideBar}
+              >
+                <Link to="#" style={{ textDecoration: "none" }}>
+                  <i className="fa fa-bars" aria-hidden="true"></i>
+                </Link>
+              </div>
+            )}
           </div>
           {/* 
         <div className="menu-button">
