@@ -22,7 +22,7 @@ function About() {
                 <div className="col-lg-6 text-center">
                   <h2>About Us</h2>
                   <p>
-                    Welcome to our About platform!We are committed to giving
+                    Welcome to our About Us platform!We are committed to giving
                     orphaned children a caring and encouraging environment.
                   </p>
                 </div>
