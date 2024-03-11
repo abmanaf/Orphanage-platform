@@ -39,7 +39,7 @@ function Gallery() {
           color: "#001F8D",
         }}
       >
-        <strong>Our Mission</strong>
+        <strong>Our Gallery</strong>
       </h3>
 
       <section
