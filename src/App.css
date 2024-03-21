@@ -372,20 +372,7 @@ h6 {
   margin-bottom: 0;
 }
 
-.about .play-btn {
-  width: 94px;
-  height: 94px;
-  background: radial-gradient(
-    var(--color-primary) 50%,
-    rgba(13, 66, 255, 0.4) 52%
-  );
-  border-radius: 50%;
-  display: block;
-  position: absolute;
-  left: calc(50% - 47px);
-  top: calc(50% - 47px);
-  overflow: hidden;
-}
+
 
 .about .play-btn:before {
   content: "";
