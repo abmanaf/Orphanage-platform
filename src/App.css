@@ -384,23 +384,6 @@ h6 {
 
 
 
-.team .member span {
-  font-style: italic;
-  display: block;
-  font-size: 13px;
-  color: #6c757d;
-}
-
-.team .member p {
-  padding-top: 10px;
-  font-size: 14px;
-  font-style: italic;
-  color: #6c757d;
-}
-
-.team .member .social {
-  margin-top: 15px;
-}
 
 .team .member .social a {
   color: rgba(14, 29, 52, 0.5);
