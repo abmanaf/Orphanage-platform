@@ -331,19 +331,7 @@ h6 {
   padding: 30px 0;
 }
 
-.featured-services .service-item .readmore i {
-  margin-left: 8px;
-}
 
-.featured-services .service-item:hover .title,
-.featured-services .service-item:hover .readmore,
-.featured-services .service-item:hover .icon i {
-  color: var(--color-primary);
-}
-
-/*--------------------------------------------------------------
-# About Us Section
---------------------------------------------------------------*/
 .about .content h3 {
   font-weight: 700;
   font-size: 32px;
