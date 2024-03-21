@@ -178,10 +178,7 @@
 .icon-float {
   display: flex;
 }
-.footer .footer-info .logo {
-  line-height: 0;
-  margin-bottom: 25px;
-}
+
 
 .footer .footer-info .logo img {
   max-height: 40px;
