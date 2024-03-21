@@ -383,15 +383,6 @@ h6 {
 
 
 
-/*--------------------------------------------------------------
-# Our Team Section
---------------------------------------------------------------*/
-.team .member {
-  text-align: center;
-  margin-bottom: 20px;
-  background: #fff;
-  border: 1px solid rgba(14, 29, 52, 0.15);
-}
 
 .team .member img {
   margin: -1px -1px 30px -1px;
