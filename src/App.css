@@ -383,77 +383,6 @@ h6 {
 
 
 
-
-
-/*--------------------------------------------------------------
-# Service Details Section
---------------------------------------------------------------*/
-.service-details .services-list {
-  padding: 10px 30px;
-  border: 1px solid #d3dff3;
-  margin-bottom: 20px;
-}
-
-.service-details .services-list a {
-  display: block;
-  line-height: 1;
-  padding: 8px 0 8px 15px;
-  border-left: 3px solid #c2cbdf;
-  margin: 20px 0;
-  color: var(--color-secondary);
-  transition: 0.3s;
-}
-
-.service-details .services-list a.active {
-  font-weight: 700;
-  border-color: var(--color-primary);
-}
-
-.service-details .services-list a:hover {
-  border-color: var(--color-primary);
-}
-
-.service-details .services-img {
-  margin-bottom: 20px;
-}
-
-.service-details h3 {
-  font-size: 28px;
-  font-weight: 700;
-  color: var(--color-secondary);
-}
-
-.service-details h4 {
-  font-size: 20px;
-  font-weight: 700;
-  color: var(--color-secondary);
-}
-
-.service-details p {
-  font-size: 15px;
-}
-
-.service-details ul {
-  list-style: none;
-  padding: 0;
-  font-size: 15px;
-}
-
-.service-details ul li {
-  padding: 5px 0;
-  display: flex;
-  align-items: center;
-}
-
-.service-details ul i {
-  font-size: 20px;
-  margin-right: 8px;
-  color: var(--color-primary);
-}
-
-/*--------------------------------------------------------------
-# Hero Section
---------------------------------------------------------------*/
 .hero {
   width: 100%;
   min-height: 50vh;
@@ -465,13 +394,6 @@ h6 {
   color: rgba(255, 255, 255, 0.8);
 }
 
-.hero h2 {
-  margin-bottom: 20px;
-  padding: 0;
-  font-size: 48px;
-  font-weight: 700;
-  color: #fff;
-}
 
 @media (max-width: 575px) {
   .hero h2 {
@@ -479,82 +401,6 @@ h6 {
   }
 }
 
-.hero p {
-  font-size: 15px;
-  font-weight: 400;
-  margin-bottom: 40px;
-}
-
-.hero form {
-  background: #fff;
-  padding: 10px;
-  border-radius: 10px;
-}
-
-.hero form .form-control {
-  padding-top: 18px;
-  padding-bottom: 18px;
-  padding-left: 20px;
-  padding-right: 20px;
-  border: none;
-  margin-right: 10px;
-  border: none !important;
-  background: none !important;
-}
-
-.hero form .form-control:hover,
-.hero form .form-control:focus {
-  outline: none;
-  box-shadow: none;
-}
-
-.hero form .btn-primary {
-  background-color: var(--color-primary);
-  padding: 15px 30px;
-}
-
-.hero form .btn-primary:hover {
-  background-color: #2756ff;
-}
-
-.hero .stats-item {
-  padding: 30px;
-  width: 100%;
-}
-
-.hero .stats-item span {
-  font-size: 32px;
-  display: block;
-  font-weight: 700;
-  margin-bottom: 15px;
-  padding-bottom: 15px;
-  position: relative;
-}
-
-.hero .stats-item span:after {
-  content: "";
-  position: absolute;
-  display: block;
-  width: 20px;
-  height: 3px;
-  background: var(--color-primary);
-  left: 0;
-  right: 0;
-  bottom: 0;
-  margin: auto;
-}
-
-.hero .stats-item p {
-  padding: 0;
-  margin: 0;
-  font-family: var(--font-primary);
-  font-size: 15px;
-  font-weight: 600;
-}
-
-/*--------------------------------------------------------------
-# Footer
---------------------------------------------------------------*/
 .footer {
   font-size: 14px;
   background-color: var(--color-secondary);
