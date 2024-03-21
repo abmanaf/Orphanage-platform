@@ -373,43 +373,6 @@ h6 {
 }
 
 
-.about .play-btn:hover:before {
-  content: "";
-  position: absolute;
-  left: 50%;
-  top: 50%;
-  transform: translateX(-40%) translateY(-50%);
-  width: 0;
-  height: 0;
-  border: none;
-  border-top: 10px solid transparent;
-  border-bottom: 10px solid transparent;
-  border-left: 15px solid #fff;
-  z-index: 200;
-  animation: none;
-  border-radius: 0;
-}
-
-.about .play-btn:hover:after {
-  border-left: 15px solid var(--color-primary);
-  transform: scale(20);
-}
-
-@keyframes pulsate-btn {
-  0% {
-    transform: scale(0.6, 0.6);
-    opacity: 1;
-  }
-
-  100% {
-    transform: scale(1, 1);
-    opacity: 0;
-  }
-}
-
-/*--------------------------------------------------------------
-# Services Section
---------------------------------------------------------------*/
 .services .card {
   border: 1px solid rgba(14, 29, 52, 0.15);
   background: #fff;
@@ -418,11 +381,6 @@ h6 {
   height: 100%;
 }
 
-.services .card .card-img {
-  overflow: hidden;
-  margin-bottom: 15px;
-  border-radius: 0;
-}
 
 .services .card .card-img img {
   transition: 0.3s ease-in-out;
