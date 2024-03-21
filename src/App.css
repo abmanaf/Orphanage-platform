@@ -384,20 +384,6 @@ h6 {
 
 
 
-.team .member img {
-  margin: -1px -1px 30px -1px;
-}
-
-.team .member .member-content {
-  padding: 0 20px 30px 20px;
-}
-
-.team .member h4 {
-  font-weight: 700;
-  margin-bottom: 2px;
-  font-size: 18px;
-}
-
 .team .member span {
   font-style: italic;
   display: block;
