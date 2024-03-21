@@ -198,15 +198,6 @@
 
 
 
-.footer .footer-links ul li:first-child {
-  padding-top: 0;
-}
-
-.footer .footer-links ul a {
-  transition: 0.3s;
-  display: inline-block;
-  line-height: 1;
-}
 
 .footer .footer-contact p {
   line-height: 26px;
