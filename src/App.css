@@ -381,65 +381,7 @@ h6 {
   height: 100%;
 }
 
-/*--------------------------------------------------------------
-# Horizontal Pricing Section
---------------------------------------------------------------*/
-.horizontal-pricing .pricing-item {
-  box-shadow: 0 3px 20px -2px rgba(108, 117, 125, 0.15);
-  padding-bottom: 30px;
-  background: #fff;
-  height: 100%;
-  position: relative;
-}
 
-.horizontal-pricing h3 {
-  font-weight: 700;
-  margin-bottom: 0;
-  font-size: 24px;
-  color: var(--color-secondary);
-}
-
-.horizontal-pricing h4 {
-  font-size: 48px;
-  color: var(--color-primary);
-  font-weight: 400;
-  font-family: var(--font-primary);
-  margin-bottom: 25px;
-  text-align: center;
-}
-
-.horizontal-pricing h4 sup {
-  font-size: 28px;
-}
-
-.horizontal-pricing h4 span {
-  color: rgba(108, 117, 125, 0.8);
-  font-size: 18px;
-}
-
-.horizontal-pricing ul {
-  padding: 20px 0;
-  list-style: none;
-  color: #6c757d;
-  text-align: left;
-  line-height: 20px;
-}
-
-.horizontal-pricing ul li {
-  padding-top: 15px;
-  display: flex;
-  align-items: center;
-}
-
-.horizontal-pricing ul i {
-  color: #059652;
-  font-size: 24px;
-  padding-right: 3px;
-}
-
-.horizontal-pricing ul .na {
-  color: rgba(108, 117, 125, 0.5);
-}
 
 .horizontal-pricing ul .na i {
   color: rgba(108, 117, 125, 0.5);
