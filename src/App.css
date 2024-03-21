@@ -331,38 +331,6 @@ h6 {
   padding: 30px 0;
 }
 
-
-.featured-services .service-item:hover .icon {
-  background: #fff;
-}
-
-.featured-services .service-item:hover .icon i {
-  color: var(--color-primary);
-}
-
-.featured-services .service-item .title {
-  font-weight: 700;
-  margin-bottom: 10px;
-  font-size: 20px;
-  color: var(--color-secondary);
-  transition: 0.3s;
-}
-
-.featured-services .service-item .description {
-  font-size: 15px;
-  color: #132848;
-  margin-bottom: 10px;
-}
-
-.featured-services .service-item .readmore {
-  display: flex;
-  align-items: center;
-  color: var(--color-secondary);
-  transition: 0.3s;
-  font-weight: 700;
-  font-size: 14px;
-}
-
 .featured-services .service-item .readmore i {
   margin-left: 8px;
 }
