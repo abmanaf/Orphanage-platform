@@ -381,24 +381,6 @@ h6 {
   height: 100%;
 }
 
-
-
-
-
-.team .member .social a {
-  color: rgba(14, 29, 52, 0.5);
-  transition: 0.3s;
-}
-
-.team .member .social a:hover {
-  color: var(--color-primary);
-}
-
-.team .member .social i {
-  font-size: 18px;
-  margin: 0 2px;
-}
-
 /*--------------------------------------------------------------
 # Horizontal Pricing Section
 --------------------------------------------------------------*/
