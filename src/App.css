@@ -1,6 +1,57 @@
 * {
   box-sizing: border-box;
 }
+
+:root {
+  --font-default: "Open Sans", system-ui, -apple-system, "Segoe UI", Roboto,
+    "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif,
+    "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  --font-primary: "Inter", sans-serif;
+  --font-secondary: "Poppins", sans-serif;
+}
+
+:root {
+  --color-default: #0a0d13;
+  --color-primary: #0d42ff;
+  --color-secondary: #0e1d34;
+}
+
+
+:root {
+  scroll-behavior: smooth;
+}
+
+
+body {
+  font-family: var(--font-default);
+  color: var(--color-default);
+}
+
+a {
+  color: var(--color-primary);
+  text-decoration: none;
+}
+
+a:hover {
+  color: #406aff;
+  text-decoration: none;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: var(--font-primary);
+}
+
+
+.header {
+  transition: all 0.5s;
+  z-index: 997;
+  padding: 30px 0;
+}
 .main-header {
   width: 100%;
   background-color: #0e1d34;
@@ -35,6 +86,9 @@
 
 .header ul li a:hover {
   background-color: #c35017;
+}
+.section-header h2{
+  color: #001f8d;
 }
 .reach-us li a {
   background-color: #c35017;
@@ -187,56 +241,6 @@
   font-size: 2em;
 }
 
-:root {
-  --font-default: "Open Sans", system-ui, -apple-system, "Segoe UI", Roboto,
-    "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif,
-    "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
-  --font-primary: "Inter", sans-serif;
-  --font-secondary: "Poppins", sans-serif;
-}
-
-:root {
-  --color-default: #0a0d13;
-  --color-primary: #0d42ff;
-  --color-secondary: #0e1d34;
-}
-
-
-:root {
-  scroll-behavior: smooth;
-}
-
-
-body {
-  font-family: var(--font-default);
-  color: var(--color-default);
-}
-
-a {
-  color: var(--color-primary);
-  text-decoration: none;
-}
-
-a:hover {
-  color: #406aff;
-  text-decoration: none;
-}
-
-h1,
-h2,
-h3,
-h4,
-h5,
-h6 {
-  font-family: var(--font-primary);
-}
-
-
-.header {
-  transition: all 0.5s;
-  z-index: 997;
-  padding: 30px 0;
-}
 
 
 .about .content h3 {
