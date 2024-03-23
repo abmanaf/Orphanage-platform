@@ -28,18 +28,6 @@ function About() {
               </div>
             </div>
           </div>
-          {/* 
-          <nav>
-            <div className="container">
-              <ol>
-                <li>
-                  <a href="index.html">Home</a>
-                </li>
-                <li>About</li>
-              </ol>
-            </div>
-          </nav>
-          */}
         </div>
 
         <section id="about" className="about">
