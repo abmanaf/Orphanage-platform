@@ -104,7 +104,6 @@ function About() {
         </section>
 
         <section id="stats-counter" className="stats-counter pt-0">
-          <div className="container" data-aos="fade-up">
           </div>
         </section>
        
