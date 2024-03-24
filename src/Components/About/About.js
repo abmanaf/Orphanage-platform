@@ -115,7 +115,6 @@ function About() {
 
 
 
-        {/* End Testimonials Section */}
 
         {/* ======= Frequently Asked Questions Section ======= */}
       </main>
