@@ -116,7 +116,6 @@ function About() {
 
 
 
-        {/* ======= Frequently Asked Questions Section ======= */}
       </main>
     </div>
   );
