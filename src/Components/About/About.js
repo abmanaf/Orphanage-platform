@@ -112,7 +112,6 @@ function About() {
         </section>
        
 
-        {/* ======= Our Team Section ======= */}
 
         {/* End Our Team Section */}
 
