@@ -105,7 +105,6 @@ function About() {
 
         <section id="stats-counter" className="stats-counter pt-0">
           <div className="container" data-aos="fade-up">
-            <div className="row gy-4">{/* Stats Counter items go here */}</div>
           </div>
         </section>
        
