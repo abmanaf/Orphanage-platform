@@ -104,7 +104,6 @@ function About() {
         </section>
 
         <section id="stats-counter" className="stats-counter pt-0">
-          </div>
         </section>
        
 
