@@ -103,8 +103,6 @@ function About() {
           </div>
         </section>
 
-        <section id="stats-counter" className="stats-counter pt-0">
-        </section>
        
 
 
