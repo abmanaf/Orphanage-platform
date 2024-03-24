@@ -102,7 +102,6 @@ function About() {
             </div>
           </div>
         </section>
-        {/* End About Us Section */}
 
         {/* ======= Stats Counter Section ======= */}
         <section id="stats-counter" className="stats-counter pt-0">
