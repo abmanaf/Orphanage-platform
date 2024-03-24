@@ -114,7 +114,6 @@ function About() {
 
 
 
-        {/* ======= Testimonials Section ======= */}
 
         {/* End Testimonials Section */}
 
