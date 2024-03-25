@@ -160,7 +160,6 @@ h6 {
   }
 }
 
-/* Style the site name on the left */
 .navbar-left {
   flex: 1;
   display: flex;
@@ -174,8 +173,7 @@ h6 {
   width: 100%;
   z-index: 999;
   background-color: rgb(200, 196, 196);
-  /*   background-color: rgba(216, 20, 20, 0.2);
-*/
+
   padding: 2em 2em;
 
   backdrop-filter: blur(10px);
