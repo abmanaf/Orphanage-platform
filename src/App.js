@@ -18,9 +18,7 @@ function App() {
         <Route path="/" element={<Home />} />
         <Route path="/About" element={<About />} />
         <Route path="/Gallery" element={<Gallery />} />
-        {/* 
-        <Route path="/Mission" element={<Mission />} />
-        */}
+       
         <Route path="Donate" element={<Donate />} />
         <Route path="ContactUs" element={<ContactUs />} />
       </Routes>
@@ -28,5 +26,6 @@ function App() {
     </div>
   );
 }
+
 
 export default App;
