@@ -4,7 +4,6 @@ import NavBar from "./Components/Nav_bar/NavBar";
 import Home from "./Components/First_Page/Home";
 import About from "./Components/About/About";
 import Gallery from "./Components/Gallery/Gallery";
-//import Mission from "./Components/Mission/Mission";
 import Footer from "./Components/Footer/Footer";
 import "bootstrap/dist/css/bootstrap.min.css";
 import { Route, Routes } from "react-router-dom";
