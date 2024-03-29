@@ -16,11 +16,9 @@
   --color-secondary: #0e1d34;
 }
 
-
 :root {
   scroll-behavior: smooth;
 }
-
 
 body {
   font-family: var(--font-default);
@@ -45,7 +43,6 @@ h5,
 h6 {
   font-family: var(--font-primary);
 }
-
 
 .header {
   transition: all 0.5s;
@@ -87,7 +84,7 @@ h6 {
 .header ul li a:hover {
   background-color: #c35017;
 }
-.section-header h2{
+.section-header h2 {
   color: #001f8d;
 }
 .reach-us li a {
@@ -113,9 +110,11 @@ h6 {
     display: block;
     color: white;
   }
+  /*
   .header {
     top: 5em;
   }
+  */
   .site-logo img {
     width: 50px;
     height: 30px;
@@ -132,9 +131,11 @@ h6 {
     display: block;
     color: white;
   }
+  /*
   .header {
     top: 5em;
   }
+  */
   .site-logo img {
     width: 50px;
     height: 30px;
@@ -151,9 +152,11 @@ h6 {
     display: block;
     color: white;
   }
+  /*
   .header {
     top: 5em;
   }
+  */
   .site-logo img {
     width: 50px;
     height: 30px;
@@ -231,15 +234,11 @@ h6 {
   display: flex;
 }
 
-
-
 .logo {
   text-decoration: none;
   color: black;
   font-size: 2em;
 }
-
-
 
 .about .content h3 {
   font-weight: 700;
@@ -281,7 +280,6 @@ h6 {
   margin-bottom: 0;
 }
 
-
 .services .card {
   border: 1px solid rgba(14, 29, 52, 0.15);
   background: #fff;
@@ -289,8 +287,6 @@ h6 {
   border-radius: 0;
   height: 100%;
 }
-
-
 
 .hero {
   width: 100%;
@@ -302,7 +298,6 @@ h6 {
   padding: 120px 0 60px 0;
   color: rgba(255, 255, 255, 0.8);
 }
-
 
 @media (max-width: 575px) {
   .hero h2 {
