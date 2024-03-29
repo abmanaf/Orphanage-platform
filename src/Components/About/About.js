@@ -4,7 +4,7 @@ function About() {
   return (
     <div style={{ marginTop: "50px" }}>
       <main id="main">
-        <div className="breadcrumbs" style={{marginBottom: '-9em'}}>
+        <div className="breadcrumbs" style={{ marginBottom: "-9em" }}>
           <div
             className="page-header d-flex align-items-center"
             style={{
@@ -19,7 +19,7 @@ function About() {
             <div className="container position-relative">
               <div className="row d-flex justify-content-center">
                 <div className="col-lg-6 text-center">
-                  <h2 style={{color: 'white'}}>About Us</h2>
+                  <h2 style={{ color: "white" }}>About Us</h2>
                   <p>
                     Welcome to our About Us platform!We are committed to giving
                     orphaned children a caring and encouraging environment.
@@ -37,6 +37,7 @@ function About() {
               textAlign: "center",
               marginBottom: "2em",
               color: "#001F8D",
+              marginTop: "2em",
             }}
           >
             <strong>Our Mission</strong>
