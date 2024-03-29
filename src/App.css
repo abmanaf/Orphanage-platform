@@ -239,7 +239,7 @@ h6 {
   color: black;
   font-size: 2em;
 }
-
+/*
 .about .content h3 {
   font-weight: 700;
   font-size: 32px;
@@ -279,7 +279,7 @@ h6 {
 .about .content p:last-child {
   margin-bottom: 0;
 }
-
+*/
 .services .card {
   border: 1px solid rgba(14, 29, 52, 0.15);
   background: #fff;
