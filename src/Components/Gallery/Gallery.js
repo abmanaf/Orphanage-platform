@@ -3,13 +3,13 @@ import React from "react";
 function Gallery() {
   return (
     <div style={{ marginTop: "4em" }}>
-      <div className="breadcrumbs" style={{ marginBottom: "-12.5em" }}>
+      <div className="breadcrumbs" style={{ marginBottom: "-5.5em" }}>
         <div
           className="page-header d-flex align-items-center"
           style={{
             backgroundImage:
               "url('https://littlebridgefoundation.org/wp-content/uploads/2022/11/inner-banner.jpg ')",
-            height: "100vh",
+            height: "50vh",
             color: "white",
             backgroundRepeat: "no-repeat",
             backgroundPosition: "cover",
@@ -31,19 +31,19 @@ function Gallery() {
           </div>
         </div>
       </div>
-      <h3
-        className="content order-last order-lg-first"
-        style={{
-          textAlign: "center",
-          marginTop: "4em",
-          marginBottom: "2em",
-          color: "#001F8D",
-        }}
-      >
-        <strong>Our Gallery</strong>
-      </h3>
 
-      <section style={{ marginTop: "4em" }}>
+      <section style={{ marginTop: "10em" }}>
+        <h3
+          className="content order-last order-lg-first"
+          style={{
+            textAlign: "center",
+            marginTop: "4em",
+            marginBottom: "2em",
+            color: "#001F8D",
+          }}
+        >
+          <strong>Our Gallery</strong>
+        </h3>
         <div className="container" data-aos="fade-up">
           {/*
           <div className="section-header" style={{ textAlign: "center" }}>
