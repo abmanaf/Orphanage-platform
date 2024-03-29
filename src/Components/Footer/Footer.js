@@ -71,13 +71,11 @@ function Footer() {
             <div className="col-lg-3 col-md-12 footer-contact text-center text-md-start">
               <h4>Contact Us</h4>
               <p>
-                [Address]
+                <strong>Country:</strong> ‪ USA <br />
                 <br />
-                [Country] <br />
+                <strong>WhatsApp:</strong> ‪+1 (337) 717‑9792
                 <br />
-                <strong>Phone:</strong> [Number]
-                <br />
-                <strong>Email:</strong> [your email]
+                <strong>Email:</strong> spreadloveorg0@gmail.com
                 <br />
               </p>
             </div>
