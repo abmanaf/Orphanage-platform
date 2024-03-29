@@ -3,7 +3,7 @@ import React from "react";
 function Gallery() {
   return (
     <div style={{ marginTop: "4em" }}>
-      <div className="breadcrumbs" style={{marginBottom: '-12.5em'}}>
+      <div className="breadcrumbs" style={{ marginBottom: "-12.5em" }}>
         <div
           className="page-header d-flex align-items-center"
           style={{
@@ -18,7 +18,7 @@ function Gallery() {
           <div className="container position-relative">
             <div className="row d-flex justify-content-center">
               <div className="col-lg-6 text-center">
-                <h2 style={{color: 'white'}}>Gallery</h2>
+                <h2 style={{ color: "white" }}>Gallery</h2>
                 <p>
                   Welcome to our Gallery page! View our photo gallery to
                   discover happy times, nostalgic moments, and the full lives of
@@ -35,16 +35,15 @@ function Gallery() {
         className="content order-last order-lg-first"
         style={{
           textAlign: "center",
-          marginTop: "2em",
+          marginTop: "4em",
+          marginBottom: "2em",
           color: "#001F8D",
         }}
       >
         <strong>Our Gallery</strong>
       </h3>
 
-      <section        
-        style={{ marginTop: "4em" }}
-      >
+      <section style={{ marginTop: "4em" }}>
         <div className="container" data-aos="fade-up">
           {/*
           <div className="section-header" style={{ textAlign: "center" }}>
