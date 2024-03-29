@@ -1,0 +1,10 @@
+#contact-page {
+  width: 100%;
+  gap: 8em;
+}
+@media only screen and (min-width: 1366px) {
+  #contact-page {
+    display: flex;
+    justify-content: center;
+  }
+}
