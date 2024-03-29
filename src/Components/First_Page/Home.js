@@ -19,13 +19,16 @@ function Home() {
                 data-aos="fade-up"
                 data-aos-delay="100"
               >
-                Our goal at <mark>Spread Love Organisation</mark> is to give
-                vulnerable and orphaned children a caring and safe environment.
-                Making ensuring every child has the opportunities, love, and
-                support they deserve is our aim. We work to meet their physical,
-                emotional, and educational requirements using a holistic
-                approach, enabling them to flourish and realize their full
-                potential.
+                Our goal at{" "}
+                <strong style={{ textTransform: "uppercase" }}>
+                  Spread Love Organisation
+                </strong>{" "}
+                is to give vulnerable and orphaned children a caring and safe
+                environment. Making ensuring every child has the opportunities,
+                love, and support they deserve is our aim. We work to meet their
+                physical, emotional, and educational requirements using a
+                holistic approach, enabling them to flourish and realize their
+                full potential.
               </p>
             </div>
 
