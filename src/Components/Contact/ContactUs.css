@@ -2,6 +2,18 @@
   width: 100%;
   gap: 8em;
 }
+@media only screen and (min-width: 768px) {
+  #contact-page {
+    display: flex;
+    justify-content: center;
+  }
+}
+@media only screen and (min-width: 1024px) {
+  #contact-page {
+    display: flex;
+    justify-content: center;
+  }
+}
 @media only screen and (min-width: 1366px) {
   #contact-page {
     display: flex;
