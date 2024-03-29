@@ -167,15 +167,6 @@ function NavBar() {
               </div>
             )}
           </div>
-          {/* 
-        <div className="menu-button">
-          <i
-            style={{ fontSize: "2em", marginTop: "0" }}
-            class="fa fa-bars"
-            aria-hidden="true"
-          ></i>
-        </div>
-        */}
         </div>
       </div>
     </div>
