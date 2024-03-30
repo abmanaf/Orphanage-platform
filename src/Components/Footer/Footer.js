@@ -73,8 +73,10 @@ function Footer() {
               <p>
                 <strong>Country:</strong> ‪ USA <br />
                 <br />
+                {/*
                 <strong>WhatsApp:</strong> ‪+1 (337) 717‑9792
                 <br />
+                 */}
                 <strong>Email:</strong> spreadloveorg0@gmail.com
                 <br />
               </p>
