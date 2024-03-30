@@ -87,6 +87,7 @@ h6 {
 .section-header h2 {
   color: #001f8d;
 }
+
 .reach-us li a {
   background-color: #c35017;
   border-radius: 15px;
@@ -119,6 +120,12 @@ h6 {
     width: 50px;
     height: 30px;
   }
+  .site-message {
+    font-size: 15px;
+  }
+  .entire-message {
+    font-size: 13px;
+  }
 }
 @media screen and (max-width: 650px) {
   .menu-button i {
@@ -140,6 +147,12 @@ h6 {
     width: 50px;
     height: 30px;
   }
+  .site-message {
+    font-size: 15px;
+  }
+  .entire-message {
+    font-size: 13px;
+  }
 }
 @media screen and (max-width: 300px) {
   .menu-button i {
@@ -160,6 +173,12 @@ h6 {
   .site-logo img {
     width: 50px;
     height: 30px;
+  }
+  .site-message {
+    font-size: 15px;
+  }
+  .entire-message {
+    font-size: 13px;
   }
 }
 
