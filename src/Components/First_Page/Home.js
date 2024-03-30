@@ -20,7 +20,6 @@ function Home() {
                 data-aos="fade-up"
                 data-aos-delay="100"
               >
-                <br />
                 Our goal at{" "}
                 <i style={{ textTransform: "uppercase" }}>
                   Spread Love Organisation
