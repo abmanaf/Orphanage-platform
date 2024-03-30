@@ -57,9 +57,9 @@ function About() {
               <p>
                 Our goal is to give orphaned children a loving, supportive
                 environment in which they can flourish socially, emotionally,
-                and academically.Our goal is to give orphaned children a loving,
-                supportive environment in which they can flourish socially,
-                emotionally, and academically.
+                and academically. Together, we work to give these kids the
+                support and tools they require to create more promising futures
+                that are full with opportunity.
               </p>
               <div style={{ marginTop: "3em" }}>
                 <h3>Our Values</h3>
