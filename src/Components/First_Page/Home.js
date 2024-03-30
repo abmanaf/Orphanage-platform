@@ -8,21 +8,23 @@ function Home() {
         <div className="container">
           <div className="row gy-4 d-flex justify-content-between">
             <div className="col-lg-7 order-2 order-lg-1 d-flex flex-column justify-content-center">
-              <h1
-                style={{ fontSize: "40px", textTransform: "uppercase" }}
+              <h3
+                className="site-message"
+                style={{ textTransform: "uppercase" }}
                 data-aos="fade-up"
               >
                 Providing Hope and Care for Every Child
-              </h1>
+              </h3>
               <p
-                style={{ fontSize: "18px" }}
+                className="entire-message"
                 data-aos="fade-up"
                 data-aos-delay="100"
               >
+                <br />
                 Our goal at{" "}
-                <strong style={{ textTransform: "uppercase" }}>
+                <i style={{ textTransform: "uppercase" }}>
                   Spread Love Organisation
-                </strong>{" "}
+                </i>{" "}
                 is to give vulnerable and orphaned children a caring and safe
                 environment. Making ensuring every child has the opportunities,
                 love, and support they deserve is our aim. We work to meet their
