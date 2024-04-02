@@ -12,15 +12,6 @@ function ContactUs() {
           Contact Us
         </h1>
         <div id="contact-page">
-          {/*
-        <div id="empty-folder">
-          <div id="move">
-            <h2 data-text="&nbsp; Reach Us Page comming soon &nbsp;">
-              &nbsp; Reach Us Page comming soon &nbsp;
-            </h2>
-          </div>
-        </div>
-         */}
           <div>
             <div style={{ textAlign: "center" }}>
               <p>Get in touch with us via whatsApp</p>
