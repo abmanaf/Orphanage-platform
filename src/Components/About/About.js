@@ -16,7 +16,6 @@ function About() {
             backgroundPosition: "cover",
           }}
         >
-          sldkjf
           <div className="container position-relative">
             <div className="row d-flex justify-content-center">
               <div className="col-lg-6 text-center">
