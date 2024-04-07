@@ -15,6 +15,7 @@ function About() {
             backgroundRepeat: "no-repeat",
             backgroundPosition: "cover",
           }}
+          dfnkas
         >
           <div className="container position-relative">
             <div className="row d-flex justify-content-center">
