@@ -97,7 +97,6 @@ function About() {
                     </p>
                   </div>
                 </li>
-                asdfk
               </ul>
             </div>
           </div>
