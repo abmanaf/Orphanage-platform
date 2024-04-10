@@ -2,7 +2,7 @@ import React from "react";
 import "./WhatsAppIcon.css";
 
 export const WhatsAppIcon = () => {
-  const whatsappNumber = "+13377179792";
+  const whatsappNumber = "+233552919011";
   const whatsappMessage = "Hello";
 
   const whatsappLink = `https://api.whatsapp.com/send?phone=${whatsappNumber}&text=${encodeURIComponent(
