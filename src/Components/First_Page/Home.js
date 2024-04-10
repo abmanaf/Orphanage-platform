@@ -252,7 +252,21 @@ function Home() {
             </div>
           </div>
         </div>
+
+        <div className="col-md-7 order-2 order-md-1">
+          <ul>
+            <li style={{ listStyleType: "none", fontSize: "1.5em" }}>
+              {/*{<i className="bi bi-check"></i>}*/} <strong>Founder:</strong>{" "}
+              Selena Banks
+            </li>
+            <li style={{ listStyleType: "none", fontSize: "1.5em" }}>
+              {/*<i className="bi bi-check"></i>*/}
+              <strong> Secretary:</strong> Solomon Fiaku
+            </li>
+          </ul>
+        </div>
       </section>
+
       {/*
       <a
         href="#"
