@@ -15,7 +15,6 @@ function Home() {
               >
                 Providing Hope and Care for Every Child
               </h3>
-              sdf
               <p
                 className="entire-message"
                 data-aos="fade-up"
