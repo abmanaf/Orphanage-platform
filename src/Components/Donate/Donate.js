@@ -8,6 +8,13 @@ function Donate() {
     <div style={{ marginTop: "10em" }}>
       <div id="fresh-page">
         <div id="message-to-people">
+          {/*
+          <div id="move">
+            <h2 data-text="&nbsp; Donate Page comming soon &nbsp;">
+              &nbsp; Donate Page comming soon &nbsp;
+            </h2>
+          </div>
+           */}
           <h1 className="orphan-header">
             <strong>Become a Volunteer</strong>
           </h1>
